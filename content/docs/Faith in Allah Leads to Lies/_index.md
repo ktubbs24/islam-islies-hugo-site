@@ -1,7 +1,8 @@
 ---
 title: Documentation
 next: first-page
-weight: []
+weight:
+  - "4"
 ---
 
 This is a demo of the theme's documentation layout.

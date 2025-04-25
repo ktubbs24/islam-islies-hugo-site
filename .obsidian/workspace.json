@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/heyoooo Kwenela.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "heyoooo Kwenela"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/docs/heyoooo Kwenela.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heyoooo Kwenela"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/docs/heyoooo Kwenela.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from heyoooo Kwenela"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/docs/heyoooo Kwenela.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of heyoooo Kwenela"
+              "title": "Outline of README"
             }
           }
         ]
@@ -170,8 +170,28 @@
   },
   "active": "9d38edd999e2860b",
   "lastOpenFiles": [
-    "content/docs/this is my first page.md",
+    "content/_index.md",
+    "content/about.md",
     "content/docs/_index.md",
-    "content/docs/heyoooo Kwenela.md"
+    "content/docs/Resources/_index.md",
+    "content/docs/Home/_index.md",
+    "content/docs/Faith in Allah Leads to Lies/_index.md",
+    "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
+    "content/docs/Faith in Jesus Leads to Salvation/_index.md",
+    "content/Blog/_index.md",
+    "content/docs/Resources",
+    "content/docs/Faith in Allah Leads to Lies",
+    "content/docs/Faith in Mohammad Leads to Damnation",
+    "content/docs/Faith in Jesus Leads to Salvation",
+    "content/Blog",
+    "content/docs/heyoooo Kwenela.md",
+    "content/docs/this is my first page.md",
+    "content/docs/Home/Support.md",
+    "content/docs/Home/Recent Updates.md",
+    "content/docs/Home/Newsletter.md",
+    "content/docs/Home/About.md",
+    "content/docs/Home/The Gospel.md",
+    "content/docs/Home/Welcome.md",
+    "content/docs/Home/leaf.md"
   ]
 }
