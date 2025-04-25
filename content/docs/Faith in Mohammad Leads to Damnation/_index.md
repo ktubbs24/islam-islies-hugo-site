@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Faith in Mohammad Leads to Damnation
 next: first-page
 weight:
   - "3"

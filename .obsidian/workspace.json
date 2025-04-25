@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -170,11 +170,12 @@
   },
   "active": "9d38edd999e2860b",
   "lastOpenFiles": [
+    "content/docs/Home/_index.md",
+    "README.md",
     "content/_index.md",
     "content/about.md",
     "content/docs/_index.md",
     "content/docs/Resources/_index.md",
-    "content/docs/Home/_index.md",
     "content/docs/Faith in Allah Leads to Lies/_index.md",
     "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
     "content/docs/Faith in Jesus Leads to Salvation/_index.md",
