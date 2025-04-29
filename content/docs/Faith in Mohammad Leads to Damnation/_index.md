@@ -1,8 +1,9 @@
 ---
 title: Faith in Mohammad Leads to Damnation
 next: first-page
+type: doc
 weight:
-  - "3"
+  - "2"
 ---
 
 This is a demo of the theme's documentation layout.

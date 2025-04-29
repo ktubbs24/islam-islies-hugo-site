@@ -1,8 +1,8 @@
 ---
 title: Home
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: /
+next: docs/Home/About
 sidebar:
   open: true
 weight:

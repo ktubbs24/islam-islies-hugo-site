@@ -1,19 +1,9 @@
 ---
-title: Documentation
+title: Blog
 next: first-page
 weight: []
 ---
 
-This is a demo of the theme's documentation layout.
+This is a demo of the theme's documentation layout.fgdgf
 
-## Hello, World!
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
