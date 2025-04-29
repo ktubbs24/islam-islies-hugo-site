@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Islam IsLIES
 
 # import hextra as module
 module:
@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Wiki
+      pageRef: /wiki
       weight: 1
     - name: About
       pageRef: /about

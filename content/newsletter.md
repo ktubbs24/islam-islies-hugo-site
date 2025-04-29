@@ -22,4 +22,5 @@ Don't miss our valuable insights and resources. Subscribe to our newsletter belo
 Enter your email below if you don't want to miss when I publish new work 👇
 Disclaimer: This newsletter will just be for updates sent to you. I don't do sponsorships, affiliates, etc. so don't worry about seeing any junkmail from me.
 
+
 <iframe src="https://islamislies.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
