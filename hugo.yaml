@@ -42,20 +42,6 @@ menu:
       params:
         icon: x-twitter
 
-menu:
-  sidebar: # You might need to use a specific menu identifier for the sidebar, check Hextra's documentation
-    - name: Home
-      pageRef: /wiki/home # Assuming your homepage content is in content/wiki/home/index.md
-      weight: 10
-    - name: Blog
-      pageRef: /blog # Assuming your blog index is at content/blog/_index.md
-      weight: 20
-    - name: Wiki
-      weight: 30
-      identifier: wiki-group # An identifier for the Wiki section
-    - name: Resources
-      pageRef: /wiki/resources # Assuming your resources index is at content/wiki/resources/index.md
-      weight: 40
 
 params:
   navbar:
