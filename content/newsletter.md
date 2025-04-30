@@ -1,6 +1,6 @@
 ---
 title: newsletter
-weight: "70"
+weight: "80"
 ---
 
 Stay Updated with Islam IsLIES

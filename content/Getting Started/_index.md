@@ -1,12 +1,12 @@
 ---
-title: Home
+title: Getting Started
 type: docs
 prev: /
-next: /Home/About
+next: /Getting Started/About
 sidebar:
   open: true
 weight:
-  - "10"
+  - "20"
 ---
 
 Pages can be organized into folders.

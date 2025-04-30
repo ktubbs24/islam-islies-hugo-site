@@ -1,5 +1,5 @@
 ---
-title: The Quran
+title: Quran
 type: docs
 weight:
   - "130"

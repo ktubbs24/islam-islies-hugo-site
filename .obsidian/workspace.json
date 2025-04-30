@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/Scriptures/_index.md",
+                "file": "content/docs/Bible/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/Jesus/_index.md",
+                "file": "content/newsletter.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "newsletter"
             }
           }
         ],
@@ -207,39 +207,39 @@
   },
   "active": "abce0fe461ab3218",
   "lastOpenFiles": [
-    "content/docs/_index.md",
-    "content/newsletter.md",
     "content/Resources/_index.md",
-    "content/Verse Studies/_index.md",
+    "content/Studies/_index.md",
+    "content/docs/_index.md",
     "content/Blog/_index.md",
     "content/about.md",
-    "content/Home/_index.md",
+    "content/Getting Started/_index.md",
+    "content/docs/Allah/_index.md",
+    "content/newsletter.md",
+    "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
+    "content/Getting Started/Contact.md",
+    "content/docs/Bible/_index.md",
+    "content/docs/Quran/_index.md",
+    "content/docs/Jesus/_index.md",
     "content/_index.md",
-    "content/Home/Contact.md",
-    "content/Home/Recent Updates.md",
-    "content/Home/Support.md",
-    "content/Home/The Gospel.md",
-    "content/Home/Welcome.md",
+    "content/Getting Started/Recent Updates.md",
+    "content/Getting Started/Support.md",
+    "content/Getting Started/The Gospel.md",
+    "content/Getting Started/Welcome.md",
     "content/Home/Newsletter.md",
     "content/Home/About.md",
     "content/Blog/2025/README.md",
-    "content/docs/Jesus/_index.md",
     "content/Blog/2025",
-    "content/docs/Allah/_index.md",
     "content/docs/Prophets/_index.md",
     "content/docs/docs.md",
-    "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
     "content/docs/Prophets/Prophets of Satan",
     "content/docs/Prophets/Prophets of God/Prophets of God.md",
     "content/docs/Prophets/Prophets of God",
     "content/Resources/The Great Deception/_index.md",
     "content/docs/Mohammad/_index.md",
-    "content/Faith in Mohammad Leads to Damnation/Faith in Mohammad Leads to Damnation.md",
-    "content/docs/The Quran/_index.md",
     "content/docs/Islam/Works of man",
     "content/docs/Islam/Muslims",
     "Tags",
-    "content/Verse Studies",
+    "content/Studies",
     "_fit/content/docs/Faith in Mohammad Leads to Damnation",
     "_fit/go.mod",
     "_fit/content/docs/Faith in Allah Leads to Lies"
