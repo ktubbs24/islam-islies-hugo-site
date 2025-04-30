@@ -2,7 +2,7 @@
 title: The Gospel
 type: docs
 weight:
-  - "30"
+  - "20"
 ---
 
 The Gospel of Jesus Christ
