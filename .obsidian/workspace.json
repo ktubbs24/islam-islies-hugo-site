@@ -4,8 +4,30 @@
     "type": "split",
     "children": [
       {
+        "id": "c4a29877e1587ae3",
+        "type": "tabs",
+        "dimension": 38.013698630136986,
+        "children": [
+          {
+            "id": "64de4d6a46276f64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "mk-ever-view",
+              "state": {
+                "path": "content/docs/False Prophets"
+              },
+              "pinned": true,
+              "icon": "columns",
+              "title": "Overview"
+            }
+          }
+        ]
+      },
+      {
         "id": "de406a29e3401ced",
         "type": "tabs",
+        "dimension": 61.986301369863014,
         "children": [
           {
             "id": "9d38edd999e2860b",
@@ -13,15 +35,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
+                "file": "content/docs/Scriptures/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
+            "id": "f98c6dfe6a6ffec5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "abce0fe461ab3218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/docs/Prophets/_index.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,12 +122,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "1577a6ff2618c921",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "46daee4758aa5d1f",
@@ -168,37 +228,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "828a593d0f7a8d37",
+  "active": "1577a6ff2618c921",
   "lastOpenFiles": [
-    "content/docs/Faith in Mohammad Leads to Damnation/Islamic Salvation",
-    "content/docs/Faith in Mohammad Leads to Damnation/Islam",
-    "content/docs/Faith in Mohammad Leads to Damnation/The Quran",
-    "content/docs/Faith in Mohammad Leads to Damnation/The Shahada",
-    "content/docs/Faith in Mohammad Leads to Damnation/Mohammad",
-    "content/docs/Faith in Allah Leads to Lies/The Great Deception",
-    "content/docs/Faith in Allah Leads to Lies/False Prophets-Teachers",
-    "content/docs/Faith in Allah Leads to Lies/Satan",
-    "content/docs/Faith in Allah Leads to Lies/Allah",
-    "content/docs/Faith in Jesus Leads to Salvation/Sheep",
-    "content/docs/Faith in Jesus Leads to Salvation/Scriptures",
+    "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
+    "content/docs/Prophets/Prophets of Satan",
+    "content/docs/Prophets/Prophets of God/Prophets of God.md",
+    "content/docs/Prophets/Prophets of God",
+    "content/docs/Home/Resources/The Great Deception/_index.md",
+    "content/docs/docs.md",
+    "content/docs/Mohammad/_index.md",
+    "content/Faith in Mohammad Leads to Damnation/Faith in Mohammad Leads to Damnation.md",
+    "content/docs/The Quran/_index.md",
+    "content/docs/Islam/_index.md",
+    "content/docs/Islam/Works of man/_index.md",
+    "content/docs/Islam/Muslims/_index.md",
+    "content/docs/Islam/Works of man",
+    "content/docs/Islam/The Shahada/_index.md",
+    "content/docs/Islam/Islamic Salvation/_index.md",
+    "content/docs/Islam/Muslims",
+    "content/docs/Prophets/_index.md",
+    "content/Faith in Allah Leads to Lies/Faith in Allah Leads to Lies.md",
+    "content/Faith in Allah Leads to Lies/test file.md",
+    "content/content.md",
+    "content/docs/Satan/_index.md",
+    "content/docs/Allah/_index.md",
+    "content/docs/Scriptures/_index.md",
+    "Tags",
+    "content/docs/Salvation/_index.md",
+    "content/docs/Sheep/_index.md",
+    "content/docs/Works/_index.md",
+    "content/docs/Jesus/_index.md",
+    "content/docs/Verse Studies/_index.md",
     "content/docs/Home/_index.md",
-    "README.md",
-    "content/_index.md",
-    "content/about.md",
     "content/docs/_index.md",
-    "content/docs/Resources/_index.md",
-    "content/docs/Faith in Allah Leads to Lies/_index.md",
-    "content/docs/Faith in Mohammad Leads to Damnation/_index.md",
-    "content/docs/Faith in Jesus Leads to Salvation/_index.md",
-    "content/Blog/_index.md",
-    "content/docs/heyoooo Kwenela.md",
-    "content/docs/this is my first page.md",
-    "content/docs/Home/Support.md",
-    "content/docs/Home/Recent Updates.md",
-    "content/docs/Home/Newsletter.md",
-    "content/docs/Home/About.md",
-    "content/docs/Home/The Gospel.md",
-    "content/docs/Home/Welcome.md",
-    "content/docs/Home/leaf.md"
+    "content/docs/Verse Studies",
+    "_fit/content/docs/Faith in Mohammad Leads to Damnation",
+    "_fit/go.mod",
+    "_fit/content/docs/Faith in Allah Leads to Lies",
+    "_fit/content/docs"
   ]
 }

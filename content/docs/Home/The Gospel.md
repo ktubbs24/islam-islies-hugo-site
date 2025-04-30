@@ -1,3 +1,10 @@
+---
+title: The Gospel
+type: docs
+weight:
+  - "30"
+---
+
 The Gospel of Jesus Christ
 Scripture's message of salvation through faith in Christ.
 

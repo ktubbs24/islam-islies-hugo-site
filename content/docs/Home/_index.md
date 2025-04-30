@@ -6,7 +6,7 @@ next: docs/Home/About
 sidebar:
   open: true
 weight:
-  - "1"
+  - "10"
 ---
 
 Pages can be organized into folders.

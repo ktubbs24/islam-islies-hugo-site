@@ -1,3 +1,10 @@
+---
+title: Support
+type: docs
+weight:
+  - "50"
+---
+
 Support Our Ministry
 Help us continue sharing Biblical truth.
 

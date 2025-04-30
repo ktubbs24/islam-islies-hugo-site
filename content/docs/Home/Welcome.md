@@ -1,3 +1,9 @@
+---
+weight:
+  - "10"
+type: docs
+---
+
 Introduction
 Welcome to Islam IsLIES, a documentation site dedicated to revealing Biblical truths about Islam and Jesus Christ. Our mission is to provide well-researched, scriptural evidence examining the claims of Islam in light of Biblical teachings.
 
