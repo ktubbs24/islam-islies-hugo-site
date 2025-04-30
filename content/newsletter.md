@@ -1,3 +1,8 @@
+---
+title: newsletter
+weight: "50"
+---
+
 Stay Updated with Islam IsLIES
 Our newsletter provides regular updates on new content, Biblical analysis, and responses to common questions about Islam and Christianity. Subscribe to receive:
 

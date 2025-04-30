@@ -1,7 +1,7 @@
 ---
 title: Blog
 next: first-page
-weight: []
+weight: "30"
 ---
 
 This is a demo of the theme's documentation layout.fgdgf

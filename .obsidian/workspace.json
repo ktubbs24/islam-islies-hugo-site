@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Blog/README.md",
+                "file": "content/Resources/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_index"
             }
           }
         ],
@@ -205,11 +205,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "828a593d0f7a8d37",
+  "active": "abce0fe461ab3218",
   "lastOpenFiles": [
-    "content/about.md",
-    "content/_index.md",
     "content/newsletter.md",
+    "content/_index.md",
+    "content/about.md",
+    "content/Resources/_index.md",
+    "content/docs/_index.md",
+    "content/Blog/_index.md",
+    "content/Home/_index.md",
+    "content/Blog/README.md",
     "content/docs/Prophets/_index.md",
     "content/docs/docs.md",
     "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
@@ -232,12 +237,7 @@
     "content/content.md",
     "content/docs/Satan/_index.md",
     "content/docs/Allah/_index.md",
-    "content/docs/Scriptures/_index.md",
     "Tags",
-    "content/docs/Salvation/_index.md",
-    "content/docs/Sheep/_index.md",
-    "content/docs/Works/_index.md",
-    "content/docs/Jesus/_index.md",
     "content/docs/Verse Studies",
     "_fit/content/docs/Faith in Mohammad Leads to Damnation",
     "_fit/go.mod",

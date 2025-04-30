@@ -1,6 +1,7 @@
 ---
-title: About Islam IsLIES
+title: About 
 type: about
+weight: "20"
 ---
 
 # Islam IsLIES — *let no one tell you otherwise*

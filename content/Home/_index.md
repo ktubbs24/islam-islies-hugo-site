@@ -2,7 +2,7 @@
 title: Home
 type: docs
 prev: /
-next: docs/Home/About
+next: /Home/About
 sidebar:
   open: true
 weight:
