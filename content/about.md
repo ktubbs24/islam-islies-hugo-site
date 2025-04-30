@@ -5,6 +5,11 @@ type: about
 
 # Islam IsLIES — *let no one tell you otherwise*
 
+- Faith in Jesus leads to Salvation
+- Faith in Allah leads to lies 
+- Faith in Mohammad leads to damnation
+
+
 Showcasing the lies of Islam and the many lies that are taught by Satan through his prophet Mohammad that keeps people from being saved through having faith in Jesus Christ that He:
 
 Died on the cross for the forgiveness of our sins

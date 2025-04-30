@@ -46,9 +46,10 @@
     "//content/content/Faith in Mohammad Leads to Damnation/content/Faith in Mohammad Leads to Damnation/Islam/content/Faith in Mohammad Leads to Damnation/Islam/Muslims",
     "//content/content/Faith in Mohammad Leads to Damnation/content/Faith in Mohammad Leads to Damnation/Islam/content/Faith in Mohammad Leads to Damnation/Islam/Works of man",
     "//content/content/docs/content/docs/Home/content/docs/Home/Resources",
-    "/",
+    "//content/content/docs",
+    "//content/content/docs/content/docs/Prophets",
     "//content",
-    "//content/content/docs"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

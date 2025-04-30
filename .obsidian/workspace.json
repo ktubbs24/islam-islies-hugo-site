@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c4a29877e1587ae3",
-        "type": "tabs",
-        "dimension": 38.013698630136986,
-        "children": [
-          {
-            "id": "64de4d6a46276f64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mk-ever-view",
-              "state": {
-                "path": "content/docs/False Prophets"
-              },
-              "pinned": true,
-              "icon": "columns",
-              "title": "Overview"
-            }
-          }
-        ]
-      },
-      {
         "id": "de406a29e3401ced",
         "type": "tabs",
-        "dimension": 61.986301369863014,
         "children": [
           {
             "id": "9d38edd999e2860b",
@@ -61,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/Prophets/_index.md",
+                "file": "content/Blog/README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "README"
             }
           }
         ],
@@ -133,8 +111,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,14 +205,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1577a6ff2618c921",
+  "active": "828a593d0f7a8d37",
   "lastOpenFiles": [
+    "content/about.md",
+    "content/_index.md",
+    "content/newsletter.md",
+    "content/docs/Prophets/_index.md",
+    "content/docs/docs.md",
     "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
     "content/docs/Prophets/Prophets of Satan",
     "content/docs/Prophets/Prophets of God/Prophets of God.md",
     "content/docs/Prophets/Prophets of God",
-    "content/docs/Home/Resources/The Great Deception/_index.md",
-    "content/docs/docs.md",
+    "content/Resources/The Great Deception/_index.md",
     "content/docs/Mohammad/_index.md",
     "content/Faith in Mohammad Leads to Damnation/Faith in Mohammad Leads to Damnation.md",
     "content/docs/The Quran/_index.md",
@@ -246,7 +227,6 @@
     "content/docs/Islam/The Shahada/_index.md",
     "content/docs/Islam/Islamic Salvation/_index.md",
     "content/docs/Islam/Muslims",
-    "content/docs/Prophets/_index.md",
     "content/Faith in Allah Leads to Lies/Faith in Allah Leads to Lies.md",
     "content/Faith in Allah Leads to Lies/test file.md",
     "content/content.md",
@@ -258,9 +238,6 @@
     "content/docs/Sheep/_index.md",
     "content/docs/Works/_index.md",
     "content/docs/Jesus/_index.md",
-    "content/docs/Verse Studies/_index.md",
-    "content/docs/Home/_index.md",
-    "content/docs/_index.md",
     "content/docs/Verse Studies",
     "_fit/content/docs/Faith in Mohammad Leads to Damnation",
     "_fit/go.mod",
