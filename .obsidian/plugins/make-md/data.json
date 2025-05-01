@@ -58,11 +58,12 @@
     "//content/content/docs/content/docs/Getting Started",
     "//content/content/Getting Started",
     "//content/content/Blog",
-    "//content/content/docs",
     "//content/content/Studies",
     "//content/content/Resources",
     "/",
-    "//content"
+    "//content",
+    "//content/content/docs",
+    "//content/content/docs/content/docs/000-Jesus"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

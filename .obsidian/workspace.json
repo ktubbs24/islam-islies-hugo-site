@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/newsletter.md",
+                "file": "content/docs/000-Jesus/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "newsletter"
+              "title": "_index"
             }
           }
         ],
@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "1577a6ff2618c921",
+            "id": "ae49f973996a932b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,6 +207,7 @@
   },
   "active": "abce0fe461ab3218",
   "lastOpenFiles": [
+    "content/newsletter.md",
     "content/Resources/_index.md",
     "content/Studies/_index.md",
     "content/docs/_index.md",
@@ -214,12 +215,11 @@
     "content/about.md",
     "content/Getting Started/_index.md",
     "content/docs/Allah/_index.md",
-    "content/newsletter.md",
     "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
     "content/Getting Started/Contact.md",
     "content/docs/Bible/_index.md",
     "content/docs/Quran/_index.md",
-    "content/docs/Jesus/_index.md",
+    "content/docs/000-Jesus/_index.md",
     "content/_index.md",
     "content/Getting Started/Recent Updates.md",
     "content/Getting Started/Support.md",
