@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Studies/_index.md",
+                "file": "content/docs/1-Jesus/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -216,10 +216,11 @@
       "fileorganizer2000:Note Companion": false
     }
   },
-  "active": "daa0ed4567e724bf",
+  "active": "abce0fe461ab3218",
   "lastOpenFiles": [
+    "content/Studies/_index.md",
     "content/_index.md",
-    "content/docs/000-Jesus/_index.md",
+    "content/docs/1-Jesus/_index.md",
     "content/docs/Allah/_index.md",
     "content/docs/Islam/_index.md",
     "content/docs/Shahada/_index.md",
@@ -240,7 +241,6 @@
     "_NoteCompanion",
     "content/newsletter.md",
     "content/Resources/_index.md",
-    "content/Studies/_index.md",
     "content/docs/_index.md",
     "content/Blog/_index.md",
     "content/about.md",
