@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/000-Jesus/_index.md",
+                "file": "content/Studies/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -187,13 +187,23 @@
               "icon": "lucide-list",
               "title": "Outline of _index"
             }
+          },
+          {
+            "id": "daa0ed4567e724bf",
+            "type": "leaf",
+            "state": {
+              "type": "fo2k.assistant.sidebar2",
+              "state": {},
+              "icon": "sparkle",
+              "title": "Note Companion"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +212,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "fileorganizer2000:Note Companion": false
     }
   },
-  "active": "abce0fe461ab3218",
+  "active": "daa0ed4567e724bf",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/docs/000-Jesus/_index.md",
+    "content/docs/Allah/_index.md",
+    "content/docs/Islam/_index.md",
+    "content/docs/Shahada/_index.md",
+    "content/docs/Works/Work of God/_index.md",
+    "content/docs/Works/_index.md",
+    "content/docs/Works/Work of God",
+    "_NoteCompanion/Templates/enhance.md",
+    "_NoteCompanion/Templates/youtube_video.md",
+    "_NoteCompanion/Templates/research_paper.md",
+    "_NoteCompanion/Templates/meeting_note.md",
+    "_NoteCompanion/Backups",
+    "_NoteCompanion/Fabric",
+    "_NoteCompanion/Templates",
+    "_NoteCompanion/Logs",
+    "_NoteCompanion/Processed/Attachments",
+    "_NoteCompanion/Processed",
+    "_NoteCompanion/Inbox",
+    "_NoteCompanion",
     "content/newsletter.md",
     "content/Resources/_index.md",
     "content/Studies/_index.md",
@@ -214,34 +245,14 @@
     "content/Blog/_index.md",
     "content/about.md",
     "content/Getting Started/_index.md",
-    "content/docs/Allah/_index.md",
     "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
     "content/Getting Started/Contact.md",
     "content/docs/Bible/_index.md",
     "content/docs/Quran/_index.md",
-    "content/docs/000-Jesus/_index.md",
-    "content/_index.md",
     "content/Getting Started/Recent Updates.md",
     "content/Getting Started/Support.md",
     "content/Getting Started/The Gospel.md",
     "content/Getting Started/Welcome.md",
-    "content/Home/Newsletter.md",
-    "content/Home/About.md",
-    "content/Blog/2025/README.md",
-    "content/Blog/2025",
-    "content/docs/Prophets/_index.md",
-    "content/docs/docs.md",
-    "content/docs/Prophets/Prophets of Satan",
-    "content/docs/Prophets/Prophets of God/Prophets of God.md",
-    "content/docs/Prophets/Prophets of God",
-    "content/Resources/The Great Deception/_index.md",
-    "content/docs/Mohammad/_index.md",
-    "content/docs/Islam/Works of man",
-    "content/docs/Islam/Muslims",
-    "Tags",
-    "content/Studies",
-    "_fit/content/docs/Faith in Mohammad Leads to Damnation",
-    "_fit/go.mod",
-    "_fit/content/docs/Faith in Allah Leads to Lies"
+    "content/Blog/2025"
   ]
 }
