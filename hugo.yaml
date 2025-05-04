@@ -55,3 +55,8 @@ params:
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+
+params:
+  sidebar:
+    sortBy: weight  # Explicitly sort sections by weight
