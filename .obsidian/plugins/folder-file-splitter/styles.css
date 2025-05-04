@@ -1,0 +1,462 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+div.workspace-leaf-content[data-plugin="FolderFile Splitter"] div.view-content {
+	padding: 0;
+}
+
+/* plugin layout */
+.ffs__plugin-container {
+	height: 100%;
+}
+
+.ffs__layout,
+.ffs__layout--horizontal,
+.ffs__layout--vertical {
+	display: flex;
+	height: 100%;
+	overflow-y: hidden;
+}
+
+.ffs__layout--vertical {
+	flex-direction: column;
+}
+
+.ffs__layout-pane,
+.ffs__folders-pane--horizontal,
+.ffs__files-pane--horizontal,
+.ffs__folders-pane--vertical,
+.ffs__files-pane--vertical {
+	display: flex;
+	flex-direction: column;
+}
+
+.ffs__folders-pane--vertical {
+	overflow-y: hidden;
+}
+
+.ffs__folders-pane--horizontal {
+	min-width: 150px;
+}
+
+.ffs__files-pane--horizontal {
+	flex: 1;
+	min-width: 150px;
+}
+
+.ffs__files-pane--vertical {
+	flex: 1;
+	min-height: 0;
+	overflow: hidden;
+}
+
+/* layout divider */
+.ffs__layout-divider:hover {
+	border-top-color: var(--background-modifier-border);
+	transition: all 50ms ease-in-out;
+}
+
+.ffs__layout-divider--horizontal {
+	border-left: 1px solid var(--divider-color);
+	cursor: ew-resize;
+	padding: 0 2px;
+	margin-left: 4px;
+}
+
+.ffs__layout-divider--vertical {
+	border-top: 1px solid var(--divider-color);
+	cursor: ns-resize;
+	margin-top: 16px;
+	padding: 2px 0;
+}
+
+/* Common Components */
+.ffs__name-input {
+	background-color: transparent;
+	border: none;
+	outline: none;
+
+	flex: 1;
+	overflow: hidden;
+}
+
+.ffs__name {
+	flex: 1;
+	font-size: 13px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+div.ffs__name--bold {
+	font-weight: var(--font-semibold);
+}
+
+/* loading */
+.ffs__loading-container {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	opacity: 0.5;
+}
+
+@keyframes spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.ffs__loading-icon-wrapper.ffs__loading-icon {
+	animation: spin 3s linear infinite;
+}
+
+/* folders and files action buttons */
+.ffs__actions-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.ffs__action-button-wrapper--disabled {
+	opacity: 0.4;
+	cursor: not-allowed;
+}
+
+.ffs__action-button-wrapper--inactive {
+	opacity: 0.4;
+}
+
+.clickable-icon.ffs__action-button-wrapper--disabled:hover,
+.ffs__action-button-wrapper--disabled.clickable-icon:hover {
+	background-color: transparent !important;
+	color: inherit !important;
+	opacity: 0.4 !important;
+}
+
+.ffs__actions-container--highlight {
+	background-color: color-mix(
+		in srgb,
+		var(--nav-item-background-hover),
+		transparent 20%
+	);
+	border-radius: var(--radius-s);
+	margin: 8px 12px 4px;
+}
+
+.ffs__actions-container svg.svg-icon {
+	transition: var(--anim-duration-fast) var(--anim-duration-fast) !important;
+}
+
+.ffs__actions-container--auto-hide:not(:hover)
+	.ffs__actions-section
+	svg.svg-icon {
+	--icon-size: 0px;
+	width: 0px;
+	height: 0px;
+}
+
+.ffs__layout
+	.ffs__actions-container--auto-hide:not(:hover)
+	.ffs__actions-section {
+	background-color: transparent !important;
+}
+
+.ffs__actions-container--auto-hide:not(:hover) .ffs__action-button-wrapper {
+	flex-grow: 0;
+	background-color: var(--background-modifier-border);
+	padding: 2px;
+	width: unset;
+	height: unset;
+}
+
+.ffs__layout--vertical .ffs__actions-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.ffs__action-button-wrapper.collapse-icon svg.svg-icon {
+	width: 14px;
+	height: 14px;
+	stroke-width: var(--icon-stroke);
+	color: var(--icon-color);
+}
+
+.ffs__actions-section {
+	display: flex;
+	align-items: center;
+	font-weight: 500;
+	color: var(--icon-color);
+	font-size: 13px;
+}
+
+.ffs__collapsed-folders,
+.ffs__collapsed-files {
+	padding: 4px 6px;
+}
+
+.ffs__collapse-pane-icon.is-collapsed {
+	transform: rotate(-90deg);
+}
+
+/* folder & file tree */
+.ffs__tree,
+.ffs__folder-tree,
+.ffs__file-tree {
+	flex: 1;
+	overflow-y: auto;
+}
+
+.ffs__file-tree--empty {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.ffs__empty-file-tree-icon {
+	width: 60px;
+	height: 60px;
+	fill: var(--text-faint);
+}
+
+/* pin */
+.ffs__pin-container {
+	margin-bottom: 16px;
+	padding-bottom: 16px;
+	border-bottom: var(--border-width) solid var(--background-modifier-border);
+}
+
+.ffs__pin-container .ffs-pin-icon {
+	width: 12px;
+	height: 12px;
+	margin-right: 2px;
+	fill: var(--icon-color);
+	color: var(--icon-color);
+}
+
+.ffs__pin-header {
+	display: flex;
+	align-items: center;
+	font-weight: 500;
+	color: var(--icon-color);
+	margin-bottom: 4px;
+	margin-left: 2px;
+	font-size: 12px;
+}
+
+/* folder */
+.tree-item-self.ffs__is-over {
+	background-color: var(--nav-item-background-hover);
+}
+
+.ffs__draggable-container {
+	display: flex;
+	flex: 1;
+}
+
+.ffs__subfolders-group {
+	position: relative;
+}
+
+.ffs__folder,
+.ffs__tag {
+	width: 100%;
+}
+
+.ffs__folder-container {
+	display: flex;
+	align-items: center;
+}
+
+.ffs__folder-content--main,
+.ffs__tag-content--main {
+	display: flex;
+	align-items: center;
+	flex: 1;
+	overflow: hidden;
+}
+
+.ffs__folder-icon-wrapper,
+.ffs__tag-icon-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: transparent;
+	color: var(--nav-item-color);
+	opacity: var(--icon-opacity);
+	margin-right: var(--size-4-2);
+}
+
+.ffs__folder-icon,
+.ffs__tag-icon {
+	width: 14px;
+	height: 14px;
+	stroke-width: var(--icon-stroke);
+}
+
+.nav-folder-title.is-active .ffs__folder-icon {
+	fill: var(--nav-item-color-active);
+}
+
+.nav-folder-title.is-active .ffs__expand-icon {
+	color: var(--nav-item-color-active);
+}
+
+.ffs__files-count {
+	font-size: 12px;
+	margin-left: 4px;
+}
+
+/* file */
+div.ffs__file-content {
+	padding-left: 16px;
+	position: relative;
+}
+
+.ffs__file-tree
+	.ffs__file-tree-item:not(:last-child)
+	.ffs__file-content--divider:not(:hover):not(.is-active)
+	.ffs__file-content-header::after {
+	content: "";
+	height: 1px;
+	background-color: var(--interactive-hover);
+	width: 90%;
+	position: absolute;
+	bottom: 0;
+}
+
+.ffs__file-content-header--with-detail {
+	display: grid;
+	grid-template-rows: auto auto;
+	gap: 4px;
+}
+
+.ffs__file-content-header--comfortable {
+	padding: 8px 0px;
+}
+
+.ffs__file-content-title {
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+}
+
+.ffs__file-detail {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	gap: 10px;
+	font-size: 12px;
+}
+
+.ffs__file-content-preview {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.ffs__file-created-time {
+	letter-spacing: -0.6px;
+	font-weight: 450;
+}
+
+.ffs__file-tree .nav-file-title .nav-file-title-content::before {
+	display: none !important;
+}
+
+/* Manual sort */
+.ffs__manual-sort-container {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	width: 100%;
+}
+
+.ffs__manual-sort-list {
+	overflow-y: auto;
+	height: 50vh;
+
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.ffs__manual-sort-breadcrumbs {
+	width: 100%;
+	background-color: var(--interactive-normal);
+	border-radius: var(--radius-s);
+	padding: 8px 16px;
+	display: flex;
+}
+
+.ffs__manual-sort-item--folder {
+	display: grid;
+	grid-template-columns: 1fr auto;
+	gap: 8px;
+	height: 30px;
+	align-items: center;
+	padding: 4px;
+	border-radius: var(--radius-s);
+	touch-action: none;
+}
+
+.ffs__manual-sort-item--folder:hover {
+	background-color: var(--interactive-hover);
+}
+
+.ffs__draggable-area {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+}
+
+.ffs__enter-folder-button {
+	color: var(--text-accent);
+	text-decoration: underline;
+}
+
+.ffs__enter-folder-button--disabled {
+	color: color-mix(in srgb, var(--text-accent), transparent 50%);
+	cursor: not-allowed;
+}
+
+.ffs__manual-sort-item--file {
+	display: grid;
+	grid-template-columns: 20px 1fr;
+	gap: 8px;
+	height: 30px;
+	align-items: center;
+	padding: 4px;
+	border-radius: var(--radius-s);
+	touch-action: none;
+}
+
+.ffs__manual-sort-item--file:hover {
+	background-color: var(--interactive-hover);
+}
+
+.ffs__sorting-item-container {
+	opacity: 0.8;
+	transform: scale(1.05);
+}
+
+.ffs__draggable-icon {
+	width: 15px;
+	height: 15px;
+}
+
+.ffs__tag-tree--start {
+	margin-top: 10px;
+	padding-top: 10px;
+	border-top: var(--border-width) solid var(--background-modifier-border);
+}

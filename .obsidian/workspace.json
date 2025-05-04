@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/1-Jesus/_index.md",
+                "file": "content/Satan/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -110,12 +110,23 @@
               "icon": "layout-grid",
               "title": "Navigator"
             }
+          },
+          {
+            "id": "296842ca2c35e8d9",
+            "type": "leaf",
+            "state": {
+              "type": "ffs-plugin-file-tree-view",
+              "state": {},
+              "icon": "dock",
+              "title": "FolderFile Splitter"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 668.5
   },
   "right": {
     "id": "46daee4758aa5d1f",
@@ -197,13 +208,24 @@
               "icon": "sparkle",
               "title": "Note Companion"
             }
+          },
+          {
+            "id": "ef7678f946ab4150",
+            "type": "leaf",
+            "state": {
+              "type": "setup-view",
+              "state": {},
+              "icon": "cog",
+              "title": "Setup"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,23 +235,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fileorganizer2000:Note Companion": false
+      "fileorganizer2000:Note Companion": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "folder-file-splitter:FolderFile Splitter": false
     }
   },
-  "active": "abce0fe461ab3218",
+  "active": "296842ca2c35e8d9",
   "lastOpenFiles": [
+    "_NoteCompanion/Templates/research_paper.md",
+    "content/about.md",
+    "content/Newsletter/newsletter.md",
+    "content/Newsletter",
+    "content/docs/_index.md",
+    "content/Jibril",
+    "content/Salvation/God's Salvation",
+    "content/docs/this is nice.md",
+    "content/Jesus/_index.md",
     "content/Studies/_index.md",
     "content/_index.md",
-    "content/docs/1-Jesus/_index.md",
-    "content/docs/Allah/_index.md",
+    "content/Allah/_index.md",
     "content/docs/Islam/_index.md",
-    "content/docs/Shahada/_index.md",
-    "content/docs/Works/Work of God/_index.md",
-    "content/docs/Works/_index.md",
-    "content/docs/Works/Work of God",
+    "content/Shahada/_index.md",
+    "content/Works/Work of God/_index.md",
+    "content/Works/_index.md",
+    "content/Works/Work of God",
     "_NoteCompanion/Templates/enhance.md",
     "_NoteCompanion/Templates/youtube_video.md",
-    "_NoteCompanion/Templates/research_paper.md",
     "_NoteCompanion/Templates/meeting_note.md",
     "_NoteCompanion/Backups",
     "_NoteCompanion/Fabric",
@@ -237,22 +268,14 @@
     "_NoteCompanion/Logs",
     "_NoteCompanion/Processed/Attachments",
     "_NoteCompanion/Processed",
-    "_NoteCompanion/Inbox",
-    "_NoteCompanion",
-    "content/newsletter.md",
-    "content/Resources/_index.md",
-    "content/docs/_index.md",
+    "content/docs/Resources/_index.md",
     "content/Blog/_index.md",
-    "content/about.md",
     "content/Getting Started/_index.md",
     "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
     "content/Getting Started/Contact.md",
-    "content/docs/Bible/_index.md",
-    "content/docs/Quran/_index.md",
+    "content/Bible/_index.md",
+    "content/Quran/_index.md",
     "content/Getting Started/Recent Updates.md",
-    "content/Getting Started/Support.md",
-    "content/Getting Started/The Gospel.md",
-    "content/Getting Started/Welcome.md",
-    "content/Blog/2025"
+    "content/Getting Started/Support.md"
   ]
 }
