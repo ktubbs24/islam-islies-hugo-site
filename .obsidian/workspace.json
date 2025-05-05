@@ -8,37 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abce0fe461ab3218",
+            "id": "7a592dbb7748eba8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Menu Order.md",
+                "file": "Menu Order.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Menu Order"
             }
-          },
-          {
-            "id": "d3d0c1b0aade190b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Works/_index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,8 +81,8 @@
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -108,15 +91,15 @@
             "state": {
               "type": "ffs-plugin-file-tree-view",
               "state": {},
-              "icon": "dock",
-              "title": "FolderFile Splitter"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 238.5
   },
   "right": {
     "id": "46daee4758aa5d1f",
@@ -195,8 +178,8 @@
             "state": {
               "type": "fo2k.assistant.sidebar2",
               "state": {},
-              "icon": "sparkle",
-              "title": "Note Companion"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -205,8 +188,8 @@
             "state": {
               "type": "setup-view",
               "state": {},
-              "icon": "cog",
-              "title": "Setup"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -224,41 +207,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "fileorganizer2000:Note Companion": false,
-      "smart-second-brain:Open S2B Chat": false,
-      "folder-file-splitter:FolderFile Splitter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d3d0c1b0aade190b",
+  "active": "7a592dbb7748eba8",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/Getting Started/_index.md",
+    "Menu Order.md",
+    "content/Blog/_index.md",
+    "content/docs/_index.md",
+    "content/Newsletter/newsletter.md",
+    "content/Prophets/Prophets of God/_index.md",
+    "content/Prophets/Prophets of Satan/_index.md",
+    "content/Prophets/_index.md",
+    "content/Salvation/God's Salvation/_index.md",
+    "content/Salvation/Islamic Salvation/_index.md",
+    "content/Salvation/God's Salvation/Untitled",
+    "content/Works/Work of God/_index.md",
+    "content/Works/Works of man/_index.md",
+    "content/Works/_index.md",
+    "content/Resources/_index.md",
     "content/Studies/_index.md",
     "content/Sheep/_index.md",
     "content/Shahada/_index.md",
     "content/Satan/_index.md",
     "content/Salvation/_index.md",
-    "content/Resources/_index.md",
     "content/Quran/_index.md",
-    "content/Prophets/_index.md",
-    "content/Newsletter/newsletter.md",
     "content/Muslims/_index.md",
     "content/Mohammad/_index.md",
     "content/Jibril/_index.md",
     "content/Jesus/_index.md",
-    "content/Getting Started/_index.md",
-    "content/Blog/_index.md",
     "content/Bible/_index.md",
-    "content/Allah/_index.md",
-    "content/Menu Order.md",
-    "content/Works/_index.md",
-    "content/_index.md",
-    "content/Getting Started/about.md",
-    "content/Getting Started/The Gospel.md",
-    "content/Getting Started/Support.md",
-    "content/Getting Started/Recent Updates.md",
-    "_NoteCompanion/Templates/research_paper.md",
     "content/Newsletter",
-    "content/docs/_index.md",
     "content/Jibril",
     "content/Salvation/God's Salvation",
     "content/Works/Work of God",
@@ -266,7 +247,6 @@
     "_NoteCompanion/Fabric",
     "_NoteCompanion/Templates",
     "_NoteCompanion/Logs",
-    "_NoteCompanion/Processed/Attachments",
-    "_NoteCompanion/Processed"
+    "_NoteCompanion/Processed/Attachments"
   ]
 }

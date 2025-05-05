@@ -17,7 +17,7 @@ Jesus says when you believe in this gospel which is the power of God then you wi
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Wiki" icon="book-open" >}}
+  {{< card link="Getting Started" title="Get Started" icon="book-open" >}}
 
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}

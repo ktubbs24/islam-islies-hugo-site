@@ -1,7 +1,7 @@
 ---
-title: Works of man
+title: God's Salvation
 type: docs
 weight:
-  - "20"
+  - "10"
 autoMenu: true
 ---

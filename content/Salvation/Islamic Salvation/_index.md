@@ -2,5 +2,6 @@
 title: Islamic Salvation
 type: docs
 weight:
-  - "10"
+  - "20"
+autoMenu: true
 ---
