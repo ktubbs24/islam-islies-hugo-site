@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/OVERVIEW/Blog/_index.md",
+                "file": "content/ISLAM IS THE STUMBLING BLOCK/Mohammad/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -37,8 +37,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 375.5
   },
   "right": {
     "id": "46daee4758aa5d1f",
@@ -179,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/OVERVIEW/Blog/_index.md",
+                "file": "Sidebar Menu Order.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of Sidebar Menu Order"
             }
           },
           {
@@ -226,8 +225,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac612bb253d9e7cd",
+  "active": "34a7d2d3eabacc04",
   "lastOpenFiles": [
+    "content/ISLAM IS THE STUMBLING BLOCK/Mohammad/_index.md",
+    "content/OVERVIEW/Blog/_index.md",
     "content/OVERVIEW/Newsletter/_index.md",
     "content/OVERVIEW/_index.md",
     "content/OVERVIEW/Getting Started/_index.md",
@@ -238,7 +239,6 @@
     "content/OVERVIEW/Getting Started/The Gospel.md",
     "content/OVERVIEW/Getting Started/Welcome.md",
     "content/_index.md",
-    "content/ISLAM IS THE STUMBLING BLOCK/Mohammad/_index.md",
     "content/ISLAM IS THE STUMBLING BLOCK/Shahada/_index.md",
     "content/ISLAM IS THE STUMBLING BLOCK/Quran/_index.md",
     "content/ISLAM IS THE STUMBLING BLOCK/Muslims/_index.md",
@@ -260,7 +260,6 @@
     "content/RESOURCES/Bible/_index.md",
     "content/Resources/_index.md",
     "content/DEVIL IN THE DETAILS AND DOCTRINES/Allah/_index.md",
-    "content/DEVIL IN THE DETAILS AND DOCTRINES/Jibril/_index.md",
     "Templates",
     "content/RESOURCES",
     "content/DEVIL IN THE DETAILS AND DOCTRINES",
