@@ -1,11 +1,6 @@
 ---
 title: Islam IsLIES
 toc: false
-menu:
-  main:
-    - name: "Islam IsLIES"
-      url: "/"
-      autoMenu: true  
 ---
 
 *Islam IsLIES — let no one tell you otherwise*
