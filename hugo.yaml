@@ -44,62 +44,6 @@ menu:
       params:
         icon: x-twitter
 
-  # Sidebar menu (unchanged)
-  sidebar:
-    - name: Getting Started
-      url: /getting-started/
-      weight: 10
-    - name: Blog
-      url: /blog/
-      weight: 20
-    - name: Newsletter
-      url: /newsletter/
-      weight: 30
-    - name: Resources
-      url: /resources/
-      weight: 40
-    - name: Studies
-      url: /studies/
-      weight: 50
-    - name: Bible
-      url: /bible/
-      weight: 60
-    - name: Jesus
-      url: /jesus/
-      weight: 70
-    - name: Salvation
-      url: /salvation/
-      weight: 80
-    - name: Works
-      url: /works/
-      weight: 90
-    - name: Sheep
-      url: /sheep/
-      weight: 100
-    - name: Prophets
-      url: /prophets/
-      weight: 110
-    - name: Shahada
-      url: /shahada/
-      weight: 120
-    - name: Muslims
-      url: /muslims/
-      weight: 130
-    - name: Quran
-      url: /quran/
-      weight: 140
-    - name: Satan
-      url: /satan/
-      weight: 150
-    - name: Jibril
-      url: /jibril/
-      weight: 160
-    - name: Allah
-      url: /allah/
-      weight: 170
-    - name: Mohammad
-      url: /mohammad/
-      weight: 180
 
 params:
   navbar:
