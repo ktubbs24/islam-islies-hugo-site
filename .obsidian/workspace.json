@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/OVERVIEW/Blog/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/OVERVIEW/Blog/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,6 +228,16 @@
   },
   "active": "ac612bb253d9e7cd",
   "lastOpenFiles": [
+    "content/OVERVIEW/Newsletter/_index.md",
+    "content/OVERVIEW/_index.md",
+    "content/OVERVIEW/Getting Started/_index.md",
+    "content/OVERVIEW/Getting Started/about.md",
+    "content/OVERVIEW/Getting Started/Contact.md",
+    "content/OVERVIEW/Getting Started/Recent Updates.md",
+    "content/OVERVIEW/Getting Started/Support.md",
+    "content/OVERVIEW/Getting Started/The Gospel.md",
+    "content/OVERVIEW/Getting Started/Welcome.md",
+    "content/_index.md",
     "content/ISLAM IS THE STUMBLING BLOCK/Mohammad/_index.md",
     "content/ISLAM IS THE STUMBLING BLOCK/Shahada/_index.md",
     "content/ISLAM IS THE STUMBLING BLOCK/Quran/_index.md",
@@ -238,12 +248,10 @@
     "content/ISLAM IS THE STUMBLING BLOCK/Muslims",
     "content/ISLAM IS THE STUMBLING BLOCK/Mohammad",
     "content/ISLAM IS THE STUMBLING BLOCK",
-    "content/OVERVIEW/_index.md",
     "Sidebar Menu Order.md",
     "content/RESOURCES/_index.md",
     "content/Studies/_index.md",
     "content/OVERVIEW/Contact",
-    "content/_index.md",
     "Untitled.canvas",
     "2025-05-04.md",
     "content/DEVIL IN THE DETAILS AND DOCTRINES/_index.md",
@@ -253,14 +261,6 @@
     "content/Resources/_index.md",
     "content/DEVIL IN THE DETAILS AND DOCTRINES/Allah/_index.md",
     "content/DEVIL IN THE DETAILS AND DOCTRINES/Jibril/_index.md",
-    "content/DEVIL IN THE DETAILS AND DOCTRINES/Satan/_index.md",
-    "content/ISLAM IS THE SUMBLING BLOCK/Mohammad/_index.md",
-    "content/ISLAM IS THE SUMBLING BLOCK/Quran/_index.md",
-    "content/ISLAM IS THE SUMBLING BLOCK/Muslims/_index.md",
-    "content/ISLAM IS THE SUMBLING BLOCK/Shahada/_index.md",
-    "content/CHRIST IS THE CORNERSTONE/Prophets/_index.md",
-    "content/CHRIST IS THE CORNERSTONE/Sheep/_index.md",
-    "content/CHRIST IS THE CORNERSTONE/Works/_index.md",
     "Templates",
     "content/RESOURCES",
     "content/DEVIL IN THE DETAILS AND DOCTRINES",
