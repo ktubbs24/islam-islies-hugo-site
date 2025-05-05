@@ -1,6 +1,7 @@
 ---
 title: Islam IsLIES
 toc: false
+sidebar:true
 ---
 
 *Islam IsLIES — let no one tell you otherwise*
