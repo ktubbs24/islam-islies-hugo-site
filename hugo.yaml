@@ -125,5 +125,3 @@ params:
   editURL:
     enable: false  # ← "Edit this page" links removed
 
-  sidebar:
-    sortBy: weight
