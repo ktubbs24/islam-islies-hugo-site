@@ -5,7 +5,7 @@ menu:
     - name: "ISLAM: THE STUMBLING BLOCK"
       url: "#"
       weight: 300
-headless: true 
+headless: true
 _build:
   render: never
 ---
