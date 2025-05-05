@@ -1,6 +1,6 @@
 ---
 title: Works
 type: docs
-weight:
-  - "40"
+weight: 90 
+autoMenu: true
 ---

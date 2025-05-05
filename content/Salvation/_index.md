@@ -1,6 +1,6 @@
 ---
 title: Salvation
 type: docs
-weight:
-  - "60"
+weight: 80
+autoMenu: true
 ---

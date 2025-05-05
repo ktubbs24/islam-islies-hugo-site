@@ -1,6 +1,6 @@
 ---
 title: Prophets
 type: docs
-weight:
-  - "110"
+weight: 110
+autoMenu: true
 ---

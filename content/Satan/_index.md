@@ -1,6 +1,6 @@
 ---
 title: Satan
 type: docs
-weight:
-  - "90"
+weight: 150 
+autoMenu: true
 ---

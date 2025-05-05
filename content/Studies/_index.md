@@ -1,6 +1,6 @@
 ---
 title: Studies
 type: docs
-weight:
-  - "60"
+weight: 50
+autoMenu: true
 ---

@@ -8,38 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d38edd999e2860b",
+            "id": "abce0fe461ab3218",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/Bible/_index.md",
+                "file": "content/Menu Order.md",
                 "mode": "source",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Menu Order"
             }
           },
           {
-            "id": "f98c6dfe6a6ffec5",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "abce0fe461ab3218",
+            "id": "d3d0c1b0aade190b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Satan/_index.md",
+                "file": "content/Works/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -48,7 +38,8 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -121,12 +112,11 @@
               "title": "FolderFile Splitter"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 668.5
+    "width": 417.5
   },
   "right": {
     "id": "46daee4758aa5d1f",
@@ -240,42 +230,43 @@
       "folder-file-splitter:FolderFile Splitter": false
     }
   },
-  "active": "296842ca2c35e8d9",
+  "active": "d3d0c1b0aade190b",
   "lastOpenFiles": [
-    "_NoteCompanion/Templates/research_paper.md",
-    "content/about.md",
+    "content/Studies/_index.md",
+    "content/Sheep/_index.md",
+    "content/Shahada/_index.md",
+    "content/Satan/_index.md",
+    "content/Salvation/_index.md",
+    "content/Resources/_index.md",
+    "content/Quran/_index.md",
+    "content/Prophets/_index.md",
     "content/Newsletter/newsletter.md",
+    "content/Muslims/_index.md",
+    "content/Mohammad/_index.md",
+    "content/Jibril/_index.md",
+    "content/Jesus/_index.md",
+    "content/Getting Started/_index.md",
+    "content/Blog/_index.md",
+    "content/Bible/_index.md",
+    "content/Allah/_index.md",
+    "content/Menu Order.md",
+    "content/Works/_index.md",
+    "content/_index.md",
+    "content/Getting Started/about.md",
+    "content/Getting Started/The Gospel.md",
+    "content/Getting Started/Support.md",
+    "content/Getting Started/Recent Updates.md",
+    "_NoteCompanion/Templates/research_paper.md",
     "content/Newsletter",
     "content/docs/_index.md",
     "content/Jibril",
     "content/Salvation/God's Salvation",
-    "content/docs/this is nice.md",
-    "content/Jesus/_index.md",
-    "content/Studies/_index.md",
-    "content/_index.md",
-    "content/Allah/_index.md",
-    "content/docs/Islam/_index.md",
-    "content/Shahada/_index.md",
-    "content/Works/Work of God/_index.md",
-    "content/Works/_index.md",
     "content/Works/Work of God",
-    "_NoteCompanion/Templates/enhance.md",
-    "_NoteCompanion/Templates/youtube_video.md",
-    "_NoteCompanion/Templates/meeting_note.md",
     "_NoteCompanion/Backups",
     "_NoteCompanion/Fabric",
     "_NoteCompanion/Templates",
     "_NoteCompanion/Logs",
     "_NoteCompanion/Processed/Attachments",
-    "_NoteCompanion/Processed",
-    "content/docs/Resources/_index.md",
-    "content/Blog/_index.md",
-    "content/Getting Started/_index.md",
-    "content/docs/Prophets/Prophets of Satan/Prophets of Satan.md",
-    "content/Getting Started/Contact.md",
-    "content/Bible/_index.md",
-    "content/Quran/_index.md",
-    "content/Getting Started/Recent Updates.md",
-    "content/Getting Started/Support.md"
+    "_NoteCompanion/Processed"
   ]
 }

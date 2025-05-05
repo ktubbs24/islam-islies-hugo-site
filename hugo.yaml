@@ -17,9 +17,11 @@ markup:
     noClasses: false
 
 menu:
+  # Navbar menu (unchanged)
   main:
-    - name: Wiki
-      pageRef: /wiki
+    - name: Getting Started
+      url: /getting-started/
+      pageRef: /getting started
       weight: 1
     - name: About
       pageRef: /about
@@ -42,21 +44,86 @@ menu:
       params:
         icon: x-twitter
 
+  # Sidebar menu (unchanged)
+  sidebar:
+    - name: Getting Started
+      url: /getting-started/
+      weight: 10
+    - name: Blog
+      url: /blog/
+      weight: 20
+    - name: Newsletter
+      url: /newsletter/
+      weight: 30
+    - name: Resources
+      url: /resources/
+      weight: 40
+    - name: Studies
+      url: /studies/
+      weight: 50
+    - name: Bible
+      url: /bible/
+      weight: 60
+    - name: Jesus
+      url: /jesus/
+      weight: 70
+    - name: Salvation
+      url: /salvation/
+      weight: 80
+    - name: Works
+      url: /works/
+      weight: 90
+    - name: Sheep
+      url: /sheep/
+      weight: 100
+    - name: Prophets
+      url: /prophets/
+      weight: 110
+    - name: Shahada
+      url: /shahada/
+      weight: 120
+    - name: Muslims
+      url: /muslims/
+      weight: 130
+    - name: Quran
+      url: /quran/
+      weight: 140
+    - name: Satan
+      url: /satan/
+      weight: 150
+    - name: Jibril
+      url: /jibril/
+      weight: 160
+    - name: Allah
+      url: /allah/
+      weight: 170
+    - name: Mohammad
+      url: /mohammad/
+      weight: 180
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    displaySearch: true
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
+    displaySocial: true
+    displayBackToTop: true
+    displayThemeSwitcher: true
+    displayLanguageSwitcher: true
+    displayLanguageSelector: true
+    displayLanguageSelectorDropdown: true
+    displayLanguageSelectorDropdownIcon: true
+    displayLanguageSelectorDropdownIconOnly: true
+    displayLanguageSelectorDropdownIconText: true
+    displayLanguageSelectorDropdownIconTextOnly: false
 
+  # EDIT LINKS DISABLED (Key change)
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false  # ← "Edit this page" links removed
 
-
-params:
   sidebar:
-    sortBy: weight  # Explicitly sort sections by weight
+    sortBy: weight

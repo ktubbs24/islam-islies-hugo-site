@@ -5,8 +5,8 @@ prev: /
 next: /Getting Started/About
 sidebar:
   open: true
-weight:
-  - "20"
+weight: 10
+autoMenu: true
 ---
 
 Pages can be organized into folders.

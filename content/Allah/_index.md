@@ -1,6 +1,6 @@
 ---
 title: Allah
 type: docs
-weight:
-  - "80"
+weight: 170
+autoMenu: true
 ---

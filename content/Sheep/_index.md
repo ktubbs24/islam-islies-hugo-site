@@ -1,6 +1,6 @@
 ---
 title: Sheep
 type: docs
-weight:
-  - "50"
+weight: 100
+autoMenu: true
 ---

@@ -1,7 +1,8 @@
 ---
 title: Blog
 next: first-page
-weight: "40"
+weight: 20 
+autoMenu: true
 ---
 
 This is a demo of the theme's documentation layout.fgdgf
