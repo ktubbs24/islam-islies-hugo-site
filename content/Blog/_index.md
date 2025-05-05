@@ -1,7 +1,7 @@
 ---
 title: Blog
 next: first-page
-weight: 20 
+weight: 120 
 autoMenu: true
 ---
 

@@ -5,7 +5,7 @@ prev: /
 next: /Getting Started/About
 sidebar:
   open: true
-weight: 10
+weight: 110
 autoMenu: true
 ---
 

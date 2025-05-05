@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Newsletter/_index.md",
+                "file": "content/Prophets/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "_index"
@@ -23,6 +23,26 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "65e87a97c7aa3cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a7d2d3eabacc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sidebar Menu Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sidebar Menu Order"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 417.5
   },
   "right": {
     "id": "46daee4758aa5d1f",
@@ -212,41 +232,41 @@
   },
   "active": "7a592dbb7748eba8",
   "lastOpenFiles": [
-    "Menu Order.md",
-    "content/_index.md",
-    "content/Getting Started/_index.md",
-    "content/Blog/_index.md",
-    "content/docs/_index.md",
+    "content/Sheep/_index.md",
+    "content/Works/_index.md",
+    "content/Salvation/_index.md",
+    "content/Jesus/_index.md",
+    "Sidebar Menu Order.md",
     "content/Newsletter/_index.md",
+    "content/Blog/_index.md",
+    "content/Getting Started/_index.md",
+    "content/Getting Started/Contact.md",
+    "content/Getting Started/Recent Updates.md",
+    "content/Getting Started/Support.md",
+    "content/Getting Started/The Gospel.md",
+    "content/Getting Started/about.md",
+    "content/Getting Started/Welcome.md",
+    "content/!_500 Resources/_index.md",
+    "content/!_300 Islam The Stumbling Block/_index.md",
+    "content/!_400 Devil in the Details and Doctrines/_index.md",
+    "content/!_200 Christ the Cornerstone/_index.md",
+    "content/!_100-Introduction/_index.md",
+    "Templates/_index.md",
+    "Templates",
+    "content/!_500 Resources",
+    "content/!_400 Devil in the Details and Doctrines",
+    "content/!_300 Islam The Stumbling Block",
+    "content/!_200 Christ the Cornerstone",
+    "content/!_100-Introduction",
+    "!_this is somerhint ghere",
+    "content/_index.md",
+    "content/docs/_index.md",
     "content/Prophets/Prophets of God/_index.md",
     "content/Prophets/Prophets of Satan/_index.md",
     "content/Prophets/_index.md",
     "content/Salvation/God's Salvation/_index.md",
-    "content/Salvation/Islamic Salvation/_index.md",
     "content/Salvation/God's Salvation/Untitled",
-    "content/Works/Work of God/_index.md",
-    "content/Works/Works of man/_index.md",
-    "content/Works/_index.md",
-    "content/Resources/_index.md",
-    "content/Studies/_index.md",
-    "content/Sheep/_index.md",
-    "content/Shahada/_index.md",
-    "content/Satan/_index.md",
-    "content/Salvation/_index.md",
-    "content/Quran/_index.md",
-    "content/Muslims/_index.md",
-    "content/Mohammad/_index.md",
-    "content/Jibril/_index.md",
-    "content/Jesus/_index.md",
-    "content/Bible/_index.md",
     "content/Newsletter",
-    "content/Jibril",
-    "content/Salvation/God's Salvation",
-    "content/Works/Work of God",
-    "_NoteCompanion/Backups",
-    "_NoteCompanion/Fabric",
-    "_NoteCompanion/Templates",
-    "_NoteCompanion/Logs",
-    "_NoteCompanion/Processed/Attachments"
+    "content/Jibril"
   ]
 }

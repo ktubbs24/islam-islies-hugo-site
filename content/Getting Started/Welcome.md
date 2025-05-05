@@ -1,6 +1,6 @@
 ---
 weight:
-  - "10"
+  - "1"
 type: docs
 ---
 

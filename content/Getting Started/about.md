@@ -1,7 +1,7 @@
 ---
 title: About 
 type: about
-weight: "30"
+weight: "2"
 ---
 
 # Islam IsLIES — *let no one tell you otherwise*

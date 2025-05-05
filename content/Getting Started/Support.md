@@ -2,7 +2,7 @@
 title: Support
 type: docs
 weight:
-  - "30"
+  - "4"
 ---
 
 Support Our Ministry

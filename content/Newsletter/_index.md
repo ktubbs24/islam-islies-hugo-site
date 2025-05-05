@@ -1,6 +1,6 @@
 ---
-title: newsletter
-weight: 30
+title: Newsletter
+weight: 130
 autoMenu: true
 ---
 
