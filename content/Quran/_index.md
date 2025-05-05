@@ -1,6 +1,6 @@
 ---
 title: Quran
 type: docs
-weight: 140
+weight: 330
 autoMenu: true
 ---

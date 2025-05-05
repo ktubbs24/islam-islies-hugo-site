@@ -1,7 +1,7 @@
 ---
 title: Bible
 type: docs
-weight: 60
+weight: 510
 autoMenu: true
 ---
 
